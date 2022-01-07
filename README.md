@@ -29,8 +29,8 @@ Open-source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask)** gen
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/jinja-dashboard-kit.git
-$ cd jinja-dashboard-kit
+$ git clone https://github.com/app-generator/flask-dashboard-kit.git
+$ cd flask-dashboard-kit
 ```
 
 > Start the app in Docker
