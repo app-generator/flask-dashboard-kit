@@ -1,0 +1,21 @@
+{
+    "name": "flask-dashboard-kit",
+    "mastertemplate": "theme-jinja2",
+    "version": "1.0.0",
+    "description": "Template project - Flask/Jinja2 Theme",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/app-generator/flask-dashboard-kit"
+    },
+    "bugs": {
+        "url": "https://github.com/app-generator/flask-dashboard-kit/issues",
+        "email": "support@appseed.us"
+    },
+    "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
