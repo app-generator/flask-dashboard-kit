@@ -8,6 +8,7 @@ Open-source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask)** gen
 
 - `Up-to-date dependencies`: **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
+- UI Kit: **DashboardKit - v3.0.0** (Bootstrap 5 Version) by **CodedThemes**
 - `DBMS`: SQLite, PostgreSQL (production) 
 - `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
 - Modular design with **Blueprints**, Session-Based Auth
