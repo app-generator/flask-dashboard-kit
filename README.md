@@ -10,8 +10,7 @@ Open-source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask)** gen
 - [SCSS compilation](#recompile-css) via **Gulp**
 - `DBMS`: SQLite, PostgreSQL (production) 
 - `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
-- Modular design with **Blueprints**, simple codebase
-- Session-Based authentication (via **flask_login**), Forms validation
+- Modular design with **Blueprints**, Session-Based Auth
 - `Deployment`: **Docker**, Gunicorn / Nginx, Heroku
 - `Support` via **Github** and [Discord](https://discord.gg/fZC6hup).
 
