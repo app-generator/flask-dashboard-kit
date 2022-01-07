@@ -1,7 +1,7 @@
 {
     "name": "flask-dashboard-kit",
-    "mastertemplate": "theme-jinja2",
-    "version": "1.0.0",
+    "mastertemplate": "boilerplate-code-jinja",
+    "version": "1.0.1",
     "description": "Template project - Flask/Jinja2 Theme",
     "scripts": {},
     "repository": {
