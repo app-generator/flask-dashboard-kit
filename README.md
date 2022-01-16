@@ -6,14 +6,14 @@ Open-source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask)** gen
 
 > Features:
 
-- `Up-to-date dependencies`: **Flask 2.0.1**
+- `Up-to-date dependencies`
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **DashboardKit - v3.0.0** (Bootstrap 5 Version) by **CodedThemes**
 - `DBMS`: SQLite, PostgreSQL (production) 
 - `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
-- Modular design with **Blueprints**, Session-Based Auth
-- `Deployment`: **Docker**, Gunicorn / Nginx, Heroku
-- `Support` via **Github** and [Discord](https://discord.gg/fZC6hup).
+- Session-Based authentication (via **flask_login**), Forms validation
+- `Deployment`: **Docker**, Gunicorn / Nginx, HEROKU
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
